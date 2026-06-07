@@ -2,12 +2,12 @@
 
 ## Milestone 1: Foundation
 
-* [ ] Create repository
-* [ ] Create project structure
-* [ ] Configure virtual environment
-* [ ] Create requirements.txt
-* [ ] Create README
-* [ ] Create ROADMAP
+* [x] Create repository
+* [x] Create project structure
+* [x] Configure virtual environment
+* [x] Create requirements.txt
+* [x] Create README
+* [x] Create ROADMAP
 
 ## Milestone 2: Team Ratings
 
