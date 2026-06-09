@@ -1,8 +1,7 @@
-def compute_overall_rating(team):
+def compute_team_overall(team):
     return (
-        team.attack_rating * 0,4 +
-        team.defense_rating * 0,4 +
-        team.playstyle_possession * 0,05 +
-        team.playstyle_creativity * 0,05 +
-        team.playstyle_pressing * 0,1
+        team.attack_rating * 0,25 +
+        team.midfield_rating * 0,25 +
+        team.defense_rating * 0,25 +
+        team.fifa_points * 0,25
     )
